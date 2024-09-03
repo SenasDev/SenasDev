@@ -11,9 +11,9 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my portfolio:
+🔭 I’m currently working on my portfolio and github profile.
   
-🌱 I’m currently learning : React
+🌱 I’m currently learning : ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%61DAFB), ![Vue](https://img.shields.io/badge/vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white), ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
   👯 I’m looking to collaborate on my webpage
 
