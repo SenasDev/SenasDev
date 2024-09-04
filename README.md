@@ -4,38 +4,44 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I'm+Senas.Dev;I'm+the best;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I'm+Senas.Dev;I'm+the+best;Web+Dev;Game+Dev;Bot+Dev;"></a>
 </p>
 
 ---
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my portfolio and github profile.
+I am a passionate web developer with a strong focus on building dynamic and responsive web applications. Over the past few years, I have dedicated myself to mastering the latest technologies in web development and continuously improving my skills to deliver high-quality solutions.
+
+🔭 I’m currently working on my portfolio and GitHub profile.
   
-🌱 I’m currently learning : ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%61DAFB), ![Vue](https://img.shields.io/badge/vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white), ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+🌱 I’m currently learning:
 
-  👯 I’m looking to collaborate on my webpage
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%61DAFB), ![Vue](https://img.shields.io/badge/vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white), ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-  🤔 I’m Not looking for help
+# 🎓 Education
 
-  💬 Ask me about for any help
+**Medac/CampusNet**  
+*2022-2024*  
+Higher Technician in Web Application Development.
+
+**UCAM**  
+*2023-2024*  
+University Diploma in Analysis, Design, and IT Solutions.  
+University Diploma in Advanced Programming.
+
+**Academia Colón**  
+*2024*  
+May-June 2024  
+Communication in Foreign Languages Level 2 (ENGLISH)
 
 # 📫 How to reach me:  
   
-  Mail me at  "jorgesantiagosenas@gmail.com" 
+  Mail me at "jorgesantiagosenas@gmail.com" 
   
   My Phone: +34 635 71 51 57
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/senas-dev
-
-
-
-
-
-
-  
-
+My LinkedIn: [https://www.linkedin.com/in/senas-dev](https://www.linkedin.com/in/senas-dev)
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -68,6 +74,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
