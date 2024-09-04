@@ -28,6 +28,7 @@
 
   My ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?)
 : www.linkedin.com/in/senas-dev
+![LinkedIn](https://img.shields.io/badge/linkedin&logoColor=white)
 
 
 
