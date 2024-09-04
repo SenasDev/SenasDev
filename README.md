@@ -26,7 +26,7 @@
   
   or Phone: +34 635 71 51 57
 
-  My ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  My ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?)
 : www.linkedin.com/in/senas-dev
 
 
