@@ -22,13 +22,18 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "jorgesantiagosenas@gmail.com" 
   
-  or Phone: +34 635 71 51 57
+  Mail me at 
+  
+  "jorgesantiagosenas@gmail.com" 
+  
+  My Phone: 
+  
+  +34 635 71 51 57
 
-  My ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  My Linedin:
 
-: www.linkedin.com/in/senas-dev
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senas-dev)
 
 
 
