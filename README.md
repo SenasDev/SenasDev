@@ -17,7 +17,7 @@ I am a passionate web developer with a strong focus on building dynamic and resp
   
 🌱 I’m currently learning:
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%61DAFB), ![Vue](https://img.shields.io/badge/vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white), ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ,![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%61DAFB), ![Vue](https://img.shields.io/badge/vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white), ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 # 🎓 Education
 
