@@ -13,7 +13,7 @@
 # 💫About Me :
 I am a passionate web developer with a strong focus on building dynamic and responsive web applications. Over the past few years, I have dedicated myself to mastering the latest technologies in web development and continuously improving my skills to deliver high-quality solutions.
 
-🔭 I’m currently working on my portfolio and GitHub profile.
+🔭 I’m currently working on my new app Next Stream.
   
 🌱 I’m currently learning:
 
