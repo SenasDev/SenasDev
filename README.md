@@ -37,17 +37,18 @@ Soy desarrollador de software enfocado en la **Arquitectura Backend e Infraestru
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%61DAFB)
 
-# 📊 Estadísticas de GitHub:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenasDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenasDev&layout=compact&theme=radical&hide=css,html" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenasDev&theme=radical" alt="Racha" />
-  ![Estadísticas de Jorge](https://github-readme-stats.vercel.app/api?username=SenasDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+## 📊 Mis Estadísticas en GitHub
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SenasDev&layout=compact&theme=radical&hide=css,html)
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SenasDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Estadísticas Generales de SenasDev" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenasDev&theme=radical" alt="Racha de Commits de SenasDev" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenasDev&layout=compact&theme=radical&hide=css,html&langs_count=8" alt="Lenguajes Más Utilizados" width="60%" />
+</div>
 
 # 📫 Contacto:
 * **LinkedIn:** [senas-dev](https://www.linkedin.com/in/senas-dev)
