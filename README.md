@@ -39,9 +39,9 @@ Soy desarrollador de software enfocado en la **Arquitectura Backend e Infraestru
 
 # 📊 Estadísticas de GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenasDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SenasDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenasDev&layout=compact&theme=radical&hide=css,html" alt="Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenasDev&layout=compact&theme=radical&hide=css,html" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenasDev&theme=radical" alt="Racha" />
 </p>
