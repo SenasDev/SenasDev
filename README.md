@@ -4,25 +4,24 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Backend+Specialist;Cloud+Architecture;AWS+%26+DevOps;SaaS+Development;"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Backend+Specialist;Cloud+Architecture;AWS+%26+DevOps;SaaS+Development;">
 </p>
 
 ---
 <div align="center">
   
 # 💫 About Me:
-I am a software developer focused on **Backend Architecture and Cloud Infrastructure**. [cite_start]Currently, I serve as a technical lead, designing scalable solutions on **AWS** and managing the full development lifecycle with a strong emphasis on **DevOps** and performance.
+I am a software developer focused on **Backend Architecture and Cloud Infrastructure**. [cite_start]Currently, I serve as a technical lead, designing scalable solutions on **AWS** and managing the full development lifecycle with a strong emphasis on **DevOps** and performance[cite: 10, 11, 13].
 
 [cite_start]🔭 **I’m currently working on:** Scaling SaaS infrastructures and high-performance backend systems[cite: 11, 40].
   
 🌱 **Technical Focus:**
-
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 # 🎓 Education
-* **University Diploma in Analysis, Design, and IT Solutions** | [cite_start]UCAM (2023-2024)[cite: 21].
-* **University Diploma in Advanced Programming** | [cite_start]UCAM (2023-2024)[cite: 23].
-* **Higher Technician in Web Application Development** | [cite_start]Medac (2022-2024)[cite: 26].
+* **University Diploma in Analysis, Design, and IT Solutions** | [cite_start]UCAM[cite: 21].
+* **University Diploma in Advanced Programming** | [cite_start]UCAM[cite: 23].
+* **Higher Technician in Web Application Development** | [cite_start]Medac[cite: 26].
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,9 +46,9 @@ I am a software developer focused on **Backend Architecture and Cloud Infrastruc
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SenasDev&theme=radical&hide_border=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SenasDev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SenasDev&theme=radical&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
