@@ -13,15 +13,15 @@
 # 💫 Sobre mí:
 Soy desarrollador de software enfocado en la **Arquitectura Backend e Infraestructura Cloud**. Actualmente ejerzo como responsable técnico, diseñando soluciones escalables en **AWS** y gestionando el ciclo completo de desarrollo con un fuerte enfoque en **DevOps** y rendimiento.
 
-[cite_start]🔭 **Actualmente trabajando en:** Escalabilidad de infraestructuras SaaS y sistemas backend de alto rendimiento. [cite: 11, 13]
+🔭 **Actualmente trabajando en:** Escalabilidad de infraestructuras SaaS y sistemas backend de alto rendimiento.
   
 🌱 **Foco Técnico:**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 # 🚀 Proyectos Destacados
-* [cite_start]**Sistema de Gestión SaaS:** Arquitectura serverless de alto rendimiento para el sector restauración (Next.js 16 y Supabase). [cite: 50, 52]
-* [cite_start]**Cine Social AI:** Ecosistema fullstack centrado en el análisis de datos y automatización (React 19). [cite: 65, 66]
-* [cite_start]**SecadoPro PWA:** Asistente inteligente con motor de cálculo físico y APIs meteorológicas. [cite: 67, 68]
+* **Sistema de Gestión SaaS:** Arquitectura serverless de alto rendimiento para el sector restauración (Next.js 16 y Supabase).
+* **Cine Social AI:** Ecosistema fullstack centrado en el análisis de datos y automatización (React 19).
+* **SecadoPro PWA:** Asistente inteligente con motor de cálculo físico y APIs meteorológicas.
 
 # 💻 Stack Tecnológico
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,9 +47,9 @@ Soy desarrollador de software enfocado en la **Arquitectura Backend e Infraestru
 </p>
 
 # 📫 Contacto:
-* [cite_start]**LinkedIn:** [senas-dev](https://www.linkedin.com/in/senas-dev) [cite: 7]
-* [cite_start]**Email:** jorgesantiagosenas@gmail.com [cite: 5]
-* [cite_start]**Ubicación:** Madrid, España [cite: 10]
+* **LinkedIn:** [senas-dev](https://www.linkedin.com/in/senas-dev)
+* **Email:** jorgesantiagosenas@gmail.com
+* **Ubicación:** Madrid, España
 
 ---
 ### ✍️ Frase de desarrollador
