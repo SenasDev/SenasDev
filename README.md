@@ -44,6 +44,9 @@ Soy desarrollador de software enfocado en la **Arquitectura Backend e Infraestru
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenasDev&layout=compact&theme=radical&hide=css,html" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenasDev&theme=radical" alt="Racha" />
+  ![Estadísticas de Jorge](https://github-readme-stats.vercel.app/api?username=SenasDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SenasDev&layout=compact&theme=radical&hide=css,html)
 </p>
 
 # 📫 Contacto:
