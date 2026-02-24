@@ -18,10 +18,15 @@ I am a software developer focused on **Backend Architecture and Cloud Infrastruc
 🌱 **Technical Focus:**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+# 🚀 Featured Projects
+* **SaaS Management System:** High-performance serverless architecture for the restaurant industry using Next.js 16 and Supabase.
+* **Cine Social AI:** Fullstack ecosystem focused on data analysis and automation with React 19.
+* **SecadoPro PWA:** Intelligent assistant using physics-based calculation engines and weather APIs.
+
 # 🎓 Education
-* **University Diploma in Analysis, Design, and IT Solutions** | [cite_start]UCAM[cite: 21].
-* **University Diploma in Advanced Programming** | [cite_start]UCAM[cite: 23].
-* **Higher Technician in Web Application Development** | [cite_start]Medac[cite: 26].
+* **University Diploma in Analysis, Design, and IT Solutions** | UCAM.
+* **University Diploma in Advanced Programming** | UCAM.
+* **Higher Technician in Web Application Development** | Medac.
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,16 +37,16 @@ I am a software developer focused on **Backend Architecture and Cloud Infrastruc
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ** **
-[cite_start]![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) [cite: 32]
-[cite_start]![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) [cite: 32]
-[cite_start]![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) [cite: 32]
-[cite_start]![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) [cite: 40, 56]
-[cite_start]![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%61DAFB) 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%61DAFB)
 
 # 📫 Contact Me:
-* [cite_start]**LinkedIn:** [senas-dev](https://www.linkedin.com/in/senas-dev) 
-* [cite_start]**Mail:** jorgesantiagosenas@gmail.com [cite: 5]
-* [cite_start]**Location:** Madrid, Spain [cite: 10]
+* **LinkedIn:** [senas-dev](https://www.linkedin.com/in/senas-dev)
+* **Mail:** jorgesantiagosenas@gmail.com
+* **Location:** Madrid, Spain
 
 ---
 
