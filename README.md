@@ -40,14 +40,7 @@ Soy desarrollador de software enfocado en la **Arquitectura Backend e Infraestru
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenasDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Estadísticas Generales de SenasDev" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenasDev&theme=radical" alt="Racha de Commits de SenasDev" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenasDev&layout=compact&theme=radical&hide=css,html&langs_count=8" alt="Lenguajes Más Utilizados" width="60%" />
 </div>
 
 
